@@ -1,0 +1,6 @@
+#This is my gitignore file here
+.ideas/
+myfirstjava.iml
+out/
+*.iml
+*.class
