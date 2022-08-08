@@ -1,6 +1,5 @@
 #This is my gitignore file here
-.ideas/
+.idea/
 myfirstjava.iml
 out/
 *.iml
-*.class
